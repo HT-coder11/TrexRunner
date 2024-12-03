@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+ 
+  margin-left: 200px;
+  margin-top: 125px; 
+}
+canvas {
+  display: block;
+
+}
+h2{
+  margin-left: 170px;
+  color:grey;
+}
